@@ -1,0 +1,15 @@
+# Repository haaraa clone gochuuf
+git clone https://github.com/username/repository.git
+
+# Project kee directory repository keessa galchuu
+cd repository
+cp -r /path/to/your/project/* .
+
+# File haaraa add gochuuf
+git add .
+
+# Commit gochuuf
+git commit -m "Project files added"
+
+# GitHub irratti upload gochuuf
+git push origin main
